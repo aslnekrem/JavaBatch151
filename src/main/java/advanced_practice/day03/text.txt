@@ -1,0 +1,18 @@
+* Online alisveris programi yaziniz.
+
+* 1. Adim : "urunListesi" ve "urunFiyatlari" listesi olustur.
+* 2. Adim : olusturdugun urunListesine 3 urun daha ekle.
+* 3. Adim : "urunListesi"nden urun sectirdigin ve kac adet istedigini
+*            sordugun bir musteriSecim() olustur.
+* 4. Adim : Kullaniciya urunListesini goster
+*           Urun kodunu ve kac adet istedigini sor
+*           Baska bir urun almak isteyip istemedigini sor.
+*           istemiyorsa toplam odemesi gereken tutari
+*           eger kurulus gunune denk geldiyse "Borcunuz Yoktur" ,
+*           kurulus gunune denk gelmediyse toplam Tutari goster,
+*           baska urun almak istiyorsa tekrar urun sectir.     *
+*           Bu islemi alisverisi bitirmek isteyene kadar tekrarla.
+* 5. Adim : Musteri her urun sectiginde, aldigi urunun fiyatini "toplamOdeme"ye ekle.
+* 6. Adim : Alisveris bitince toplam odemesi gereken tutari goster.
+
+*

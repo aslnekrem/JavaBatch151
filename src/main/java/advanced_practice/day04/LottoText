@@ -1,0 +1,15 @@
+ /*
+Proje: Sayısal Loto Uygulaması
+
+       1) Kullanici Bileti icin sistem tarafindan rastgele n tane sayı üretilsin.
+       2) Loto sonucu icin de rastgele n tane sayı ile üretilsin.
+       3) Sayısal lotoda tekrarlı sayılar olmasin.
+       4) n(hane sayısı), sayılar için kullanicidan min ve max degerler alınsın.
+       5) loto sonucu ile bilet ile karsılastırılsın,
+       6) kac eslesme oldugu kullanıcıya bildirilsin.
+       7)  Eger eslesme varsa;
+           Max deger>50 ise ==>buyuk ikramiye
+           Max deger>100 ise ==>super ikramiye
+           Max deger>0 ise ==>amorti kazandiniz yazdirsin
+
+*/

@@ -1,0 +1,79 @@
+
+
+                                STRING METHODLARI
+
+1) toUpperCase() : i) Tum harfleri buyuk harfe cevirir
+                   ii) bize String bir data return ediyor
+
+2) toLowerCase() : i) Tum harfleri kucuk harf yapar
+                   ii) Bize String return eder
+
+3) charAt(0);  i)Bize Data'daki ilk karakteri dondurur
+               ii)index ile calisir
+
+4)length();  :  i)Bir datadaki karakter sayisini bize verir
+               ii)int bir deger dondurur
+
+5) substring() :  i)iki kullanimi vardir
+                    i) substring(baslangicIndexi,bitisIndexi)'i verirlirse
+                        baslangic indexi dahil, bitis indexi haric yazdirir.
+                        Metnin ortasindan data almamizi saglar.
+
+                    ii) (baslangicIndex) String'in verilen index'Den sonuna
+                    kadar alinmasini saglar. Bu method bize String dondurur.
+
+6) contains() :     Bir data var mi yok mu diye bakar. Bize boolean bir
+                    deger dondurur.
+
+
+7)substring()  in iki kullanimi vardir.
+            i) substring(baslangic indexi, bitis indexi) String'in ortasindan
+               bir parca almaya yarar
+            ii)substring(baslangic indexi) String'in verilen index'ten sonuna
+               kadar almaya yarar.
+               Sonuc ise String dir.
+8) startsWith() Metnin bas kisminin istenilen dizi(1 veya
+                daha fazla karakter) ile eslesip eslesmedigini
+                kontrol eder.Sonucu boolean dir
+
+ 9)  replace () : Metnin içerisindeki belirli bir datanin yerine verilen diger datayi yerlestirir
+                  String datayi dondurur
+                  Tekli karakterler ile de coklu String karakterler ile de calisir
+                  Her iki tarafta da "" ya da her iki tarafta da '' kullanilmalidir
+
+
+ 10) replaceAll () : Bir grup datayi degistirmek icin kullanilir.
+                    Bir grup data'yi ifade edebilmek icin Regular Expression (Regex) kullanilir.
+
+
+11) replaceFirst () : replace () ile ayni isi yapmakkla birlikte ilk gordugu datayi degistirir.
+
+12) trim () : Bir String'de bastaki ve sondaki space karakterlerini siler, ortadaki
+              space karakterlerine dokunmaz.
+
+              13) isEmpty () : String data'nin iceisinde hicbir sey yoksa True dondurur.
+                               Java'da space'de bir karakter oldugu icin space varsa False dondurur.
+
+
+              14) isBlank () : ==>space+hiclik ise True dondurur.
+                               String bir data'nin bos mu dolu mu olduguna bakar isEmpty'den farki space varsa
+                               yine true dondurur.
+
+
+              15) indexOf () : Verilen karakter veya karakterlerin ilk gorunumunun indexini verir.
+                               int deger dondurur.
+                               Coklu data icin kullanildiginda ilk ngordugu data'nin ilk karakkterinin
+                               index'ini verir.
+                               Olmayan bir karakterin index'i sorulursa bize -1 dondurur.
+
+
+              16) lastIndexOf () : Verilen String bir data'da istenilen degerin son gorunumunun indexini verir.
+                                   Olmayan bir karakter sorgulanirsa -1 dondurur.
+
+              17) If Statement () : Bazen kodlarin calismasi belirli kosullara baglidir.
+                                    Mesela cok calisirsam java ogrenecegim. Java ogrenme eylemi
+                                    cok calisma eylemine baglanmistir.
+                                    1. eylem gercekklesmeden ikinci eylem gerceklesmez.
+                                    if() {}
+                                    () parantez icine sart yazilir. Eger True dondurulurse {} body arasindaki kod calisir
+                                    aksi halde if body disina cikar class'ta sonraki kodlari okumaya devam eder.

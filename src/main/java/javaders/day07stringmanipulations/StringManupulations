@@ -1,0 +1,123 @@
+                                      String Class Methodlari
+
+1)toUpperCase():
+            i)Bir String'deki tum harfleri
+            buyuk harfe cevirmek icin kullanilir.
+            ii) toUpperCase() method'u "String" return eder
+
+2)toLowerCase():
+            i)Bir String'deki tum harfleri kucuk
+            harfe cevirmek icin kullanilir.
+            ii) toLowerCase() method'u "String"
+            return eder
+
+3)charAt(): i) Bir String'den belli bir index'deki
+            characteri almak icin kullanilir.
+            ii)charAt() method'u "char" return eder.
+
+4)lenght():i) bir datadaki karakter sayisini bize verir
+            ii) int bir deger dondurur
+
+5)substring(): iki kullanimi vardir
+            i) substring(baslangicIndexi,bitisIndex) 'i verilirse
+               baslangic indexi dahil bitis indexi haric yazdirir
+               Metnin ortasindan data almamizi saglar
+            ii)(baslangicIndexi) String'in verilen indexten sonuna
+               kadar alinmasini saglar
+               Bu method bize String dondurur.
+
+6) contains()  :
+            i) Bir String'de belli bir characterin veya characterlerin var
+               olup olmadigini anlamak icin kullanilir
+            ii)contains() method'u "boolean" return eder.
+
+7)substring()  in iki kullanimi vardir.
+            i) substring(baslangic indexi, bitis indexi) String'in ortasindan
+               bir parca almaya yarar. baslangic indexi ==> inclusive/dahil, bitis indexi ==> eclusive/haric
+            ii)substring(baslangic indexi) String'in verilen index'ten sonuna
+               kadar almaya yarar.
+               Sonuc ise String dir.
+
+8) startsWith() Metnin bas kisminin istenilen dizi(1 veya
+                daha fazla karakter) ile eslesip eslesmedigini
+                kontrol eder.Sonucu boolean dir
+
+ 9)  replace () : Metnin içerisindeki belirli bir datanin yerine verilen diger datayi yerlestirir
+                                  String datayi dondurur
+                                  Tekli karakterler ile de coklu String karakterler ile de calisir
+                                  Her iki tarafta da "" ya da her iki tarafta da '' kullanilmalidir
+
+
+10) replaceAll () : Bir grup datayi degistirmek icin kullanilir.
+                                    Bir grup data'yi ifade edebilmek icin Regular Expression (Regex) kullanilir.
+
+
+EN COK KULLANILAN REGEXLER:
+                           1) Tum Rakamlar ==> [0-9]
+                           2) Tum Kucuk Harfler ==> [a-z]
+                           3) Tum Buyuk Harfler ==> [A-Z]
+                           4) Tum Harfler ==> [a-zA-Z]
+                           5) Tum Harfler ve Rakamlar ==> [a-zA-Z0-9]
+                           6) Tum Noktalama Isaretleri ==> \\p{Punct}
+                           7) Tum Sesli Harfler ==> [aeiouAEIOU]
+
+                                  ^ ==> den farkli, haricinde
+                                  1) Tum Rakamlar Haric ==> [^0-9]
+                                  2) Tum Kucuk Harfler Haric ==> [^a-z]
+                                  3) Tum Buyuk Harfler Haric==> [^A-Z]
+                                  4) Tum Harfler Haric==> [^a-zA-Z]
+                                  5) Tum Harfler ve Rakamlar Haric ==> [^a-zA-Z0-9]
+                                  6) Tum Noktalama Isaretleri Haric ==> \\p{Punct}
+                                  7) Tum Sesli Harfler Haric ==> [^aeiouAEIOU]
+
+11) replaceFirst () : replace () ile ayni isi yapmakkla birlikte ilk gordugu datayi degistirir.
+
+12) trim () : Bir String'de bastaki ve sondaki space karakterlerini siler, ortadaki
+              space karakterlerine dokunmaz.
+
+13) isEmpty () : String data'nin iceisinde hicbir sey yoksa True dondurur.
+                 Java'da space'de bir karakter oldugu icin space varsa False dondurur.
+
+
+14) isBlank () : ==>space+hiclik ise True dondurur.
+                 String bir data'nin bos mu dolu mu olduguna bakar isEmpty'den farki space varsa
+                 yine true dondurur.
+
+
+15) indexOf () : Verilen karakter veya karakterlerin ilk gorunumunun indexini verir.
+                 int deger dondurur.
+                 Coklu data icin kullanildiginda ilk ngordugu data'nin ilk karakkterinin
+                 index'ini verir.
+                 Olmayan bir karakterin index'i sorulursa bize -1 dondurur.
+                 int ikinciKullanım=cumle.indexOf(kelime,ilkKullanım+1);
+                         Bunu farkli bir kaynaktan aldim. IndexOf u bu sekilde kullandiginda, ikinci yazdigin parametreden basliyor
+                         bakmaya. Mesela   indexOf(kelime,25)  burada kelime'ye 25'inci index'den itaberen baslayacak bakmaya.
+
+
+
+16) lastIndexOf () : Verilen String bir data'da istenilen degerin son gorunumunun indexini verir.
+                     Olmayan bir karakter sorgulanirsa -1 dondurur.
+
+17) If Statement () : Bazen kodlarin calismasi belirli kosullara baglidir.
+                      Mesela cok calisirsam java ogrenecegim. Java ogrenme eylemi
+                      cok calisma eylemine baglanmistir.
+                      1. eylem gercekklesmeden ikinci eylem gerceklesmez.
+                      if() {}
+                      () parantez icine sart yazilir. Eger True dondurulurse {} body arasindaki kod calisir
+                      aksi halde if body disina cikar class'ta sonraki kodlari okumaya devam eder.
+
+
+
+
+                    KENDI       ALDIGIM     NOTLAR
+
+1)  isimSoyisim.replaceAll("\\S","*") ifadesi, isimSoyisim değişkenindeki her bir karakteri (boşluk karakteri hariç),
+ yıldız karakteriyle değiştirmek için kullanılan bir dize yöntemidir. Burada \\S ifadesi, boş olmayan (non-whitespace)
+ herhangi bir karakteri temsil eder.
+
+Örneğin, "John Doe" gibi bir dizeyi isimSoyisim değişkeninde saklıyor olsaydınız, bu kod ***** *** şeklinde bir
+çıktı üretecektir.
+
+2)  int ikinciKullanım=cumle.indexOf(kelime,ilkKullanım+1);
+    Bunu farkli bir kaynaktan aldim. IndexOf u bu sekilde kullandiginda, ikinci yazdigin parametreden basliyor
+bakmaya. Mesela   indexOf(kelime,25)  burada kelime'ye 25'inci index'den itaberen baslayacak bakmaya.
