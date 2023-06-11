@@ -12,8 +12,7 @@ public class Scanner02 {
         String lastname = input.next();
 
         System.out.println(firstname+" "+lastname);
-        //input.  yazarsan yaninda yardimcilar cikiyor nextInt vs..
-        //Mesela burada input. yazdigimizda next oneriliyor. next String yazdirir. Ama tek kelime bosluksuz
+       
 
 
 
