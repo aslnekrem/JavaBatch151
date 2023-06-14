@@ -5,7 +5,6 @@ public class Variables01 {
        
 
 
-        //Ornek 1: Sehir ismi icin bir variable olusturun ve bir deger atayip omu ekrana yazdirin
 
         String cityName = "Nicomedia";
         System.out.println(cityName);
