@@ -3,20 +3,13 @@ package javaders.day05typecastingasciivaluestringmanupulations;
 public class C01_MatematikselIslemler {
     public static void main(String[] args) {
 
-        /*
-        -Javada farkli data type'lari arasinda islem yapiliyorsa sonuc buyuk olan data type'inin turunde olur
-        -Karsilastirma operatorlerinde sonuc hep boolean doner
-        -Karsilastirma operatorleri: <, >, !=, ==, &&, ||, ......
-         */
+        
 
         System.out.println(4 * (5 + 2) / 3);  //Output: 9. int/int ==> int olur bu yuzden virgulden sonrasini atar
         System.out.println(6 * 16 / 8);//Output: 12
         double sonuc = 4 * (2 + 5) / 3; //Burada islem tek data tipinde yapiliyor yani int
         System.out.println(sonuc);
-        /*
-        Output: 9.0.  Cunku islem yapan sayilar integer sonuc integer cikar ama double icine yazdigimiz icin
-        islem bittikten sonra virgulden sonrasi atilir ama sonucta ondalikli yazdirir
-         */
+       
 
         double sonuc2 = 4.0 * (2 + 5) / 3; //Burada islem iki data tipinde yapiliyor int ve double
         System.out.println("sonuc2 = " + sonuc2);//Output: 9.333333....
