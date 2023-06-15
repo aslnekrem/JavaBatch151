@@ -7,7 +7,7 @@ public class C01_StringManipulation {
         String aUpper = a.toUpperCase();    //.toUpperCase, tum harfleri buyutur
         System.out.println("aUpper = " + aUpper);
 
-        //*********Lower Case********
+       
         String aLower = a.toLowerCase();
         System.out.println("aLower = " + aLower);
         //aLower = tek rakibim dunku ben
