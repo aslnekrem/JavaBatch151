@@ -3,19 +3,7 @@ package javaders.day05typecastingasciivaluestringmanupulations;
 public class C02_AsciiValue {
     public static void main(String[] args) {
 
-        //'A' karakterinin Ascii degerini yazdiran code'u yazdiriniz
-        //Ascii table'daki butun degerler tam sayi. Bu yuzden float'da double'a gerek yok.
-        //Java icin Binary kodlar vardir. Binary kodlara donusturulmesi icinde Asccii Table'dan faydalanilir
-        //Java'da char data type'ini matematiksel islemlerde kullanirsaniz Ascii Table'daki sayisal degerleri alir
-        //Char'in hem sayisal bir degeri vardir hem de resim karakteri barindirabilme ozelligi vardir
-        //Char tek bir character barindirir.
-        //
-        /*
-
-        Java'da char data type'ina int degerde atanabilir sembol harf vs de atanabilir. Cunku char data type'inin
-        Ascii'den gelen ssayisal == numeric bir degeri bir de resim karakteri vardir.
-
-         */
+        
 
         //double ve float'in hassasiyeti yani virgulden sonrasi buyuk bu yuzden siralama o sekilde
 
