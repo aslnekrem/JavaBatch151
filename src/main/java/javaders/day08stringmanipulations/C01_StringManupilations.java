@@ -6,7 +6,7 @@ public class C01_StringManupilations {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
           /*
-        Kullanicidan email adresini girmesini isteyin,
+        
         Asagidaki kurallara gore kullanicinin
         girdigi email adresini kontrol ediniz.
                i)mail adresi "@gmail" icermeli
