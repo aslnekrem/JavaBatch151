@@ -7,7 +7,7 @@ public class C02_StringManupulaions {
         Scanner input = new Scanner(System.in);
 
         /*
-          Asagidaki kurallara gore kullanicinin girdigi password'u kontrol ediniz
+          
 
                  i) En az 8 karakterden olussun
                 ii) Password space icermesin
