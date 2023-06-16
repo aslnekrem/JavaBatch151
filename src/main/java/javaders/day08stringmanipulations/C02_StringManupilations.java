@@ -4,9 +4,7 @@ public class C02_StringManupilations {
     public static void main(String[] args) {
         //****************      replaceFrist()      //////////
 
-        /*
-        replace() ayni isi yapiyor ancak ilk gordugu datayi degistiriyor
-         */
+        
 
         //Ex: str String'indeki ilk gorunen "a" harfini "e" harfi ile degistiriniz
 
