@@ -4,7 +4,6 @@ public class C01_StringManipulations {
     public static void main(String[] args) {
         String s = "Learn Java earn money";
 
-        //****************      endsWith      ***************
 
          /*
     endsWith () Metnin bellirli bir datayla bitip bitmedigini verir
