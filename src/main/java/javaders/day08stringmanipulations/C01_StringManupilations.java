@@ -7,8 +7,7 @@ public class C01_StringManupilations {
         Scanner input = new Scanner(System.in);
           /*
         
-        Asagidaki kurallara gore kullanicinin
-        girdigi email adresini kontrol ediniz.
+       
                i)mail adresi "@gmail" icermeli
                ii)Space characteri mail'de olmamali
                iii)mail adresinde buyuk harf olmamali
