@@ -4,7 +4,7 @@ public class C02_IfStatement {
 
     public static void main(String[] args) {
 
-        // INTERWIEW QUESTINS USA QA
+        
 
         // Bir Stringdeki tekrarsiz karakterleri ekrana yazdiriniz
         //   String y ="abbccdc"
