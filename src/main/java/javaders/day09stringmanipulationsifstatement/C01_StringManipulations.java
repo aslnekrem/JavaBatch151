@@ -3,7 +3,7 @@ package javaders.day09stringmanipulationsifstatement;
 public class C01_StringManipulations {
     public static void main(String[] args) {
 
-        //******************        isEmpty     ***************
+        
 
         /*
         isEmpty () bos mu dolu mu diye bakar
