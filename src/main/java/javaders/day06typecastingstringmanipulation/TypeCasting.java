@@ -3,8 +3,7 @@ package javaders.day06typecastingstringmanipulation;
 public class TypeCasting {
     public static void main(String[] args) {
 
-        //short datta type'inda bir variable olusturup byte data type'ina ceviren kodu yaziniz
-
+       
         short num = 260;
         byte numByte = (byte) num;
         System.out.println("numByte = " + numByte); //4
