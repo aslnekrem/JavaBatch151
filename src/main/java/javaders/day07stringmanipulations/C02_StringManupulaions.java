@@ -9,7 +9,7 @@ public class C02_StringManupulaions {
         /*
           
 
-                 i) En az 8 karakterden olussun
+                 
                 ii) Password space icermesin
                iii) En az bir tane buyuk harf olsun
                 iv) En az bir tane kucuk harf olsun
