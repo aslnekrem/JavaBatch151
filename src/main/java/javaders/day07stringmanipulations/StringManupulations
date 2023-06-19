@@ -1,7 +1,7 @@
                                       String Class Methodlari
 
 1)toUpperCase():
-            i)Bir String'deki tum harfleri
+            
             buyuk harfe cevirmek icin kullanilir.
             ii) toUpperCase() method'u "String" return eder
 
