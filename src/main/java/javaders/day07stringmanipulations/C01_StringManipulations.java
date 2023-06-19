@@ -6,7 +6,7 @@ public class C01_StringManipulations {
 
 
          /*
-    endsWith () Metnin bellirli bir datayla bitip bitmedigini verir
+    
                 Bize boolean bir sonuc dondurur
                 Tek karakterde , coklu karakterde kullanilabilir
      */
