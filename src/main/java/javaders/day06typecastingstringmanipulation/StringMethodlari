@@ -2,7 +2,7 @@
 
                                 STRING METHODLARI
 
-1) toUpperCase() : i) Tum harfleri buyuk harfe cevirir
+
                    ii) bize String bir data return ediyor
 
 2) toLowerCase() : i) Tum harfleri kucuk harf yapar
