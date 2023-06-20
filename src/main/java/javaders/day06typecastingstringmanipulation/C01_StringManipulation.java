@@ -10,7 +10,6 @@ public class C01_StringManipulation {
        
         String aLower = a.toLowerCase();
         System.out.println("aLower = " + aLower);
-        //aLower = tek rakibim dunku ben
 
         //******************   charAt() ***********
 
