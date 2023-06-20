@@ -8,7 +8,7 @@ public class TypeCasting {
         byte numByte = (byte) num;
         System.out.println("numByte = " + numByte); //4
 
-        //  -128 < byte <+127 .. Byte konteyniri icerisinde 256 sayi var
+        
         //yukaridaki ornekte short'dan gelen 260 sayisini 256'ya boluyor 4 kaliyor onu yazdiriyor
         //bunu sonrasinda tekrar short newShort = numByte; yapsakta yine 4 olur. Bu yuzden bu yontem tehlikeli
 
