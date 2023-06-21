@@ -8,7 +8,7 @@ public class C01_StringManipulations {
          /*
     
                 
-                Tek karakterde , coklu karakterde kullanilabilir
+               
      */
         //Ex: s String'inin "money" ile bitip bitmedigini kontrol ediniz.
 
