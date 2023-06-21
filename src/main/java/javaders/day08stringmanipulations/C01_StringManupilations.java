@@ -8,7 +8,7 @@ public class C01_StringManupilations {
           /*
         
        
-               i)mail adresi "@gmail" icermeli
+              
                ii)Space characteri mail'de olmamali
                iii)mail adresinde buyuk harf olmamali
                iv)En az bir tane noktalama isareti bulunmali
