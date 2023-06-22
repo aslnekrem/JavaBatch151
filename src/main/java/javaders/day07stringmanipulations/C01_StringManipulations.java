@@ -10,7 +10,6 @@ public class C01_StringManipulations {
                 
                
      */
-        //Ex: s String'inin "money" ile bitip bitmedigini kontrol ediniz.
 
         boolean isEnd = s.endsWith("money");
         System.out.println("isEnd = " + isEnd);//true
