@@ -9,7 +9,7 @@ public class C01_StringManupilations {
         
        
               
-               ii)Space characteri mail'de olmamali
+              
                iii)mail adresinde buyuk harf olmamali
                iv)En az bir tane noktalama isareti bulunmali
          */
