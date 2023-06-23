@@ -5,11 +5,7 @@ public class C01_StringManipulations {
         String s = "Learn Java earn money";
 
 
-         /*
-    
-                
-               
-     */
+        
 
         boolean isEnd = s.endsWith("money");
         System.out.println("isEnd = " + isEnd);//true
