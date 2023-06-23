@@ -10,7 +10,6 @@ public class C01_StringManupilations {
        
               
               
-               iii)mail adresinde buyuk harf olmamali
                iv)En az bir tane noktalama isareti bulunmali
          */
 
