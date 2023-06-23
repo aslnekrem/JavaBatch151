@@ -5,7 +5,6 @@
             
            
 2)toLowerCase():
-            i)Bir String'deki tum harfleri kucuk
             harfe cevirmek icin kullanilir.
             ii) toLowerCase() method'u "String"
             return eder
