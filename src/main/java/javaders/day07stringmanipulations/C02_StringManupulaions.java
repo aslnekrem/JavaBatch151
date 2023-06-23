@@ -12,7 +12,6 @@ public class C02_StringManupulaions {
                  
                 
                
-                iv) En az bir tane kucuk harf olsun
                  v) En az bir tane sembol olsun
                 vi) En az bir tanede rakam olsun
 
