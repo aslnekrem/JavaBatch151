@@ -12,7 +12,6 @@ public class C02_StringManupulaions {
                  
                 
                
-                 v) En az bir tane sembol olsun
                 vi) En az bir tanede rakam olsun
 
                 Pozitif senaryo: Ac123?c.
