@@ -13,7 +13,7 @@ public class C01_StringManipulations {
         //********************* replace () **************************\\
 
             /*
-            replace () Metnin icerisindeki belirli bir datanin yerine verilen diger datayi yerlestirir
+            
                String bir data dondurur
                tekli karakterler ile de coklu karakterler ile de calisir
                Ancak her iki taraftada " "  ya da  her iki taraftada ' ' kullanilmalidir.
