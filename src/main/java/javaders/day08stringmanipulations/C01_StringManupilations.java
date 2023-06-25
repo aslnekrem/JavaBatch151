@@ -10,7 +10,7 @@ public class C01_StringManupilations {
        
               
               
-               iv)En az bir tane noktalama isareti bulunmali
+              
          */
 
         System.out.println("Lütfen mail adresinizi\n" +
