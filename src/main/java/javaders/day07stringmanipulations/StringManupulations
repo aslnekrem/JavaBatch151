@@ -5,8 +5,7 @@
             
            
 2)toLowerCase():
-            harfe cevirmek icin kullanilir.
-            ii) toLowerCase() method'u "String"
+           
             return eder
 
 3)charAt(): i) Bir String'den belli bir index'deki
