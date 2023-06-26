@@ -5,13 +5,7 @@ import java.util.Scanner;
 public class C01_StringManupilations {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-          /*
-        
-       
-              
-              
-              
-         */
+         
 
         System.out.println("Lütfen mail adresinizi\n" +
                 "\" i)mail adresi \\\"@gmail\\\" icermeli\\n\" +\n" +
