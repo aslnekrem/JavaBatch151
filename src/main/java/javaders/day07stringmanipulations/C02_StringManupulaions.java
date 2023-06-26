@@ -12,7 +12,7 @@ public class C02_StringManupulaions {
                  
                 
                
-                vi) En az bir tanede rakam olsun
+                
 
                 Pozitif senaryo: Ac123?c.
                 Negatif senaryo: Ac123? sd
