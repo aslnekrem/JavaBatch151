@@ -14,7 +14,6 @@ public class C02_StringManupulaions {
                
                 
 
-                Pozitif senaryo: Ac123?c.
                 Negatif senaryo: Ac123? sd
          */
         System.out.println("Lutfen passwordunuzu " +
