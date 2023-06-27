@@ -16,7 +16,6 @@ public class C01_StringManupilations {
         String mail = input.nextLine();
 
 
-        //  i)mail adresi "@gmail" icermeli
         boolean first = mail.contains("@gmail");
         System.out.println("first = " + first);
 
