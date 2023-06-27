@@ -8,7 +8,6 @@
            
            
 
-3)charAt(): i) Bir String'den belli bir index'deki
             characteri almak icin kullanilir.
             ii)charAt() method'u "char" return eder.
 
