@@ -19,7 +19,6 @@ public class C01_StringManupilations {
         boolean first = mail.contains("@gmail");
         System.out.println("first = " + first);
 
-        //ii) Space characteri mail'de olmamali
         boolean second = !mail.contains(" ");
         System.out.println("second = " + second);
 
