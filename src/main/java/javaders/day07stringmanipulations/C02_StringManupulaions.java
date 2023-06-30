@@ -14,7 +14,6 @@ public class C02_StringManupulaions {
                
                 
 
-                Negatif senaryo: Ac123? sd
          */
         System.out.println("Lutfen passwordunuzu " +
                 "                 i) En az 8 karakterden olussun\n" +
