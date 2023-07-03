@@ -6,15 +6,7 @@ public class C02_StringManupulaions {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-        /*
-          
-
-                 
-                
-               
-                
-
-         */
+       
         System.out.println("Lutfen passwordunuzu " +
                 "                 i) En az 8 karakterden olussun\n" +
                 "                ii) Password space icermesin\n" +
