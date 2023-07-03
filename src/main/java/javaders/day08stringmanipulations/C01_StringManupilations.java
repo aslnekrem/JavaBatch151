@@ -22,7 +22,7 @@ public class C01_StringManupilations {
         boolean second = !mail.contains(" ");
         System.out.println("second = " + second);
 
-        //iii) Mail adresinde buyuk harf olmamali
+        
         //Regex karakterlerle contains method'u calismaz
         //boolean third = !mail.contains("[^A-Z]");  Bu method calismaz mesela
 
