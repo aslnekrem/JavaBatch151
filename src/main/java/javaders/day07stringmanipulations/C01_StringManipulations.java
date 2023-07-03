@@ -14,7 +14,6 @@ public class C01_StringManipulations {
             /*
             
                
-               Ancak her iki taraftada " "  ya da  her iki taraftada ' ' kullanilmalidir.
             */
 
 
