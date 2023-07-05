@@ -23,7 +23,6 @@ public class C01_StringManupilations {
         System.out.println("second = " + second);
 
         
-        //Regex karakterlerle contains method'u calismaz
         //boolean third = !mail.contains("[^A-Z]");  Bu method calismaz mesela
 
         //DIKKAT!! :Birden fazla method'u ard arda kullanmaya:  methhod chain diyoruz
