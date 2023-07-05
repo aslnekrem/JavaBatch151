@@ -17,7 +17,6 @@ public class C02_StringManupulaions {
 
         String pwd = input.nextLine();
 
-        // i) En az 8 karakterden olussun
         boolean krktrSys = pwd.length() > 7;  //Bu alttakine gore best practise'dir cunku esittir'i kontrol etmiyor.
         boolean krktrSys2 = pwd.length() >= 8; //Bu olabilir ama best practise degi l. Yukaridaki best practise'dir
 
