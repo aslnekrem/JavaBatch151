@@ -3,7 +3,6 @@ package practices;
 public class C03_Ascii {
 
     public static void main(String[] args) {
-        // CEM ismini, ismin icerisinde bulunan harfleri kullanmadan yazdırınız
         /* ASCİİ
 
           B ==> 66           C ==> 67
