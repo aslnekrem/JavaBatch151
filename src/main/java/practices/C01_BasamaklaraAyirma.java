@@ -8,7 +8,7 @@ public class C01_BasamaklaraAyirma {
 
         int x = 12345;
 
-        int birler = x%10;     // 5
+        int birler = x%10;     
 
         int onlar = (x/10)%10;   // 4
 
