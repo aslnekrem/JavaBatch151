@@ -7,7 +7,6 @@ import java.io.IOException;
 public class E01 {
 
     /*
-    1)Run Button'una bastiktan sonra console'da alinan Exception'lara "Runtime Exception" denir.
      ArithmeticException, NullPointerException, NumberFormatException, ArrayIndexOutOfBoundsException, StringIndexOutOfBoundsException
      "Runtime Exception"a ornektir.
      "Runtime Exception" lara "Unchecked Exception" da denir.
