@@ -15,7 +15,6 @@ public class E02 {
 
             while ((i=fis.read())!=1){//read() Cet vardi. Yani mesela okuyamayacagim cince bir karakter varsa ne yapayim
                                         //diyor
-                //istersek read()'de'de 4 tane more action var. Secerek bakabilirsin zor degiller
                 //Emin degilsen ve aksi soylenmiyorsa asagidaki gibi yap ve e.printStackTrace(); ekle
 
                 System.out.print((char) i);
