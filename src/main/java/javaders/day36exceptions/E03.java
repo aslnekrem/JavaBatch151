@@ -5,7 +5,6 @@ public class E03 {
     //Example 1 : Kullanicidan alinan yasi console'a yazdiran methodu olusturunuz
     /*
         IWQ:
-        "throws" ile "throw" arasindaki farklar nelerdir
         1)"throws" methods signatures satirinda kullanilir. "throw" ise method body icinde kullanilir
         2)"throws" method signature satirinda bir veya birden fazla exception ile bir kere kullanilir. Yani method
             signature'da bir kere throws yazar. "throw" ise method body icerisinde bir tane exception ile tekrar tekrar
