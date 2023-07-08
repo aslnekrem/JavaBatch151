@@ -5,7 +5,6 @@ import java.util.Arrays;
 public class Arrays03 {
     public static void main(String[] args) {
 
-        //Specific bir elemanin array'de olup olmadigini anlamak icin gereken kodu yaziniz
         String names[] = {"K", "C", "R", "A", "S"};
 
         String el = "R";
