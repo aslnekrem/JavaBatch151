@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class Arrays02 {
     public static void main(String[] args) {
 
-        //+, -, *, /, % islemlerini yapabilen bir hesap makinasi yapiniz.
         //Kullanici "q" ya basmadigi surece islem secip yapabilsin
         /*
             1)Kullanicidan data almak icin Scanner object olustur
