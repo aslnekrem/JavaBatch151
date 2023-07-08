@@ -8,7 +8,6 @@ public class Arrays01 {
         //Kullanicinin coklu data'yi bir array'e yerlestirebilmesi icin gerekn kodu yaziniz.
 
         /*
-            1)Kullanicidan data almak icin Scanner object olustur
             2)Coklu data'yi yerlestirmek icin bir array olusturmaliyim
             3)Array olusturabilmek icin kullanicidan array'e kac tane eleman koyacagini almaliyim.
             4)loop olusturup eleman ekleme islemini tekrar tekrar yapabilmeliyim.
