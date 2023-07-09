@@ -7,7 +7,7 @@ import java.io.IOException;
 public class E02 {
     public static void main(String[] args) {
 
-        //2.Way
+        //2Way
         try {
             FileInputStream fis = new FileInputStream("src/main/java/javaders/day36exceptions/TextFile");
 
