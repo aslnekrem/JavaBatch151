@@ -2,7 +2,6 @@ package javaders.day36exceptions;
 
 public class E03 {
 
-    //Example 1 : Kullanicidan alinan yasi console'a yazdiran methodu olusturunuz
     /*
         IWQ:
         1)"throws" methods signatures satirinda kullanilir. "throw" ise method body icinde kullanilir
