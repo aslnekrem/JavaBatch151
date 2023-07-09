@@ -7,7 +7,6 @@ import java.io.IOException;
 public class E01 {
 
     /*
-     ArithmeticException, NullPointerException, NumberFormatException, ArrayIndexOutOfBoundsException, StringIndexOutOfBoundsException
      "Runtime Exception"a ornektir.
      "Runtime Exception" lara "Unchecked Exception" da denir.
 
