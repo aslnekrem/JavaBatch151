@@ -2,7 +2,6 @@ package javaders.day26abstraction;
 
 public abstract class Courses {
     /*
-        // abstract method'lar normal class icerisinde yasayamaz, melekler abstract'ir dunya'da yasayamazlar
         // Bu yuzden class'i abstract yaptik, yani abstract class oldu.
         //Abstract method'lar kesinlikle Override edilmeli butun child'lar tarafindan. Matematik ortaokul 6,7,8.
             siniflarda zorunlu derstir. Mufredatta olmak zorunda. Fren butun arabalarda olmak zorundadir. Ama fren'in
