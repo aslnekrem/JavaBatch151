@@ -6,7 +6,6 @@ public class Loops4 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-        //kullanıcı user name ve passwordu girsin 3 kereden fazla yanlış girerse
         //hesabınız bloke olmuştur mesajı alsın
         //yanlış girerse yanlış girdiniz tekrar deneyiniz yazsın
         //doüru girerse hesabınıza hoşgeldiniz yazsın
