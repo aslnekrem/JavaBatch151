@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class Loops01 {
     public static void main(String[] args) {
 
-        //Example:Kullanicidan alinan bir tam sayinin tekrarsiz rakamlarinin toplamini bulunuz
         //IvO;
         Scanner input = new Scanner(System.in);
         System.out.println("Please enter an integer..");
