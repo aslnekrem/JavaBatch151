@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class Loops02 {
     public static void main(String[] args) {
-        //Example: 3'den 8'e kadar tum tam sayilari konsola yazdiran kodu yaziniz
 
         //1.Way
         for (int i = 3; i < 9; i++) {
