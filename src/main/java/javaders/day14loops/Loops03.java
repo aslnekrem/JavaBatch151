@@ -7,7 +7,6 @@ public class Loops03 {
 
         int i = 1;
 
-        //While Loop
         while (i<1){//While Loop'Da Loop body'nin hic calismamasi mumkundur. (Zero execution is possible)
             System.out.println(i);
             i++;
