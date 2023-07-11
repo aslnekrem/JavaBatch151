@@ -2,7 +2,6 @@ package javaders.day14loops;
 
 public class Loops {
     public static void main(String[] args) {
-        //Verilen bir String'de kucuk harfleri console'a yazmayiniz
         //"Pwd12?Ab" ==> P12?A
 
         String s = "Pwd12?Ab";
