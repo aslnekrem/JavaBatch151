@@ -4,5 +4,6 @@ public interface Brake {
 
     void slow();
     void payment();
+    
 
 }
