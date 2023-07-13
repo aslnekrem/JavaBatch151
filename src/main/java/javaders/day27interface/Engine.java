@@ -30,6 +30,7 @@ package javaders.day27interface;
         Interface'lerin Constructor'i yoktur.
  */
 
+
 public interface Engine {
 
     public void start();//public yazmaya gerek yok bu yuzden silik gosteriyor public yazisini
