@@ -8,6 +8,5 @@ public class CarRunner {
         h.eco();//eco() method'u static olmadigindan "object" ismi ile ulastim.
 
 
-
     }//main
 }//class
