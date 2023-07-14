@@ -4,6 +4,7 @@ public interface Animal{
     void eat();
     void drink();
 
+
     /*
 
     1)interface'lerdeki tum variable'lar otomatik(default) olarak "final"dir.
