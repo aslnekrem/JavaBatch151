@@ -4,6 +4,7 @@ public class Cat implements Mammal{
     @Override
     public void eat() {
 
+
     }
 
     @Override
