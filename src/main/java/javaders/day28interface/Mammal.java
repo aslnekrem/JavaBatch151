@@ -20,6 +20,7 @@ package javaders.day28interface;
     4)"interface" Class'in Child'i olamaz ama "abstract class" class'in child'i olabilir.
     5)abstract class'larda constructor vardir ama object uretemez, interface'lerde constructor yoktur bu yuzdenobject
         uretilemez
+
  */
 
 public  interface Mammal extends Animal {
