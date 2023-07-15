@@ -3,6 +3,7 @@ package javaders.day19arraylists;
 import java.util.ArrayList;
 
 public class ArrayList01 {
+   
    /*
         1)Ayni data type'indeki coklu data'lari depolamak icin Array kullaniriz.
         2)Array'lerin bir negatif yonu var; icine koyacaginiz eleman sayisini en basta belirlemek zorundasiniz.
