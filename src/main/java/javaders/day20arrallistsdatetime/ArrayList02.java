@@ -8,6 +8,7 @@ import java.util.List;
 public class ArrayList02 {
     public static void main(String[] args) {
 
+        
         /*
         Example 1: Bir Integer List' teki birbirine en yakin iki elemani bulunuz.
         [12,23,10,19] ==> 12 and 10
