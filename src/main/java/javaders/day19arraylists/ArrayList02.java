@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class ArrayList02 {
+     
      /*
         Bir method'u ogrenirken asagidaki 3 seyi ogrenin;
         1) O method ne iş yapar?
