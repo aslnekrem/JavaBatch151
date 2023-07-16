@@ -3,6 +3,7 @@ package javaders.day33maps;
 import java.util.HashMap;
 
 public class HashMap01 {
+    
     public static void main(String[] args) {
         //Example 1: Verilen bir String'de hangi harfin kac defa kullanildigini veren method olusturunuz.
         //           "Hello Henry!"==> H=2, e=2, l=2, o=1, n=1, r=1, y=1
