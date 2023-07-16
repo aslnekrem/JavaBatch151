@@ -5,6 +5,7 @@ import java.util.HashMap;
 
 public class HashMap02 {
     public static void main(String[] args) {
+        
 
         //IWQ
         //Example 1: Type code to print the number of occurrences of words in a sentence
