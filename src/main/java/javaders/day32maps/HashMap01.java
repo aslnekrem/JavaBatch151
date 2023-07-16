@@ -4,6 +4,7 @@ import java.util.HashMap;
 
 public class HashMap01 {
     public static void main(String[] args) {
+        
 
         HashMap<String, Integer> stdAges = new HashMap<>();
         //1. data type(String) key'ler, 2. data type(Integer) value'ler icin
