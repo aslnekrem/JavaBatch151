@@ -1,6 +1,7 @@
 package javaders.day27interface;
 
 /*
+
     1)"interface" icine "concrete method" konulamaz.
     2)"interface" icindeki method'larin abstract oldugunu Java bilir bu yuzden "interface" icindeki abstract methodlarda
         abstract keyword kullanmaya gerek yoktur.
