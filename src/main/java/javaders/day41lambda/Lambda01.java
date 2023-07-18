@@ -7,6 +7,7 @@ public class Lambda01 {
     public static void main(String[] args) {
 
         //Lambda Expression. Expression(cumle)
+        
 
         List<Integer> nums = new ArrayList<Integer>();
         nums.add(8);
