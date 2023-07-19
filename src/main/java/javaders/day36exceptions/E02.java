@@ -5,6 +5,7 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 
 public class E02 {
+
     public static void main(String[] args) {
 
         //2Way
