@@ -5,6 +5,7 @@ public class Utils {
     //Ihtiyaciniz olan method Java class'larinda yoksa Util Class olusturup icinde ihtiyaciniz olan methodu olusturunuz
         //ve Method referance kullaniniz
     public static int getSquare(int a){
+
         return a*a;
     }
 
