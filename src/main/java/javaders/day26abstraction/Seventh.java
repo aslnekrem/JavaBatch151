@@ -5,5 +5,6 @@ public class Seventh extends Courses{
     public void math() {
         System.out.println("Learn multication division...");
         
+
     }
 }//class
