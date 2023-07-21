@@ -3,6 +3,7 @@ package javaders.day18constructorsstatickeyword;
 import java.time.LocalDate;
 
 public class StaticNonStaticBlocks01 {
+    
     /*
         1)"static block"lar "static variable"lara "ilk degerlerini atamak" (initialize) icin kullanilir
         2)"static bir variable'a deger atamak icin kod yazmaniz gerekirse "static block" kullaniniz
