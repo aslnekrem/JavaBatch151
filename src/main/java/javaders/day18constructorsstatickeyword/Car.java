@@ -2,6 +2,7 @@ package javaders.day18constructorsstatickeyword;
 
 public class Car {
     /*
+    
     1)Constructor nasil olusturulur ?
             Access Modifier + Clas Ismi + () + {} + ;
     2)Method ile "Constructor" arasindaki farklar nelerdir ?
