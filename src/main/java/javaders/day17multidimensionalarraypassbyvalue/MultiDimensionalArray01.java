@@ -5,6 +5,7 @@ import java.util.Arrays;
 public class MultiDimensionalArray01 {
     public static void main(String[] args) {
         //3 boyutlu veya daha fazla Array'ler genelde neredeyse hic kullanilmaz
+        
 
     /*
         1)Bir array'in elemanlari da array olursa bu tarz array'lere "Multidimensional Array" denir.
