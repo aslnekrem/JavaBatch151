@@ -7,6 +7,7 @@ public class PassByValue01 { /*
         3)Method ismi
         4)Method Parantez
         5){ } parantezleri method body'si icin
+        
 
         Note: "main method" un icindeki tum method'lar static olmalidir.
         //Main method icerisinde kullanacagimiz tüm methodlar static olmalidir
