@@ -13,6 +13,7 @@ public class C02_IfStatement {
                 "3 ==>Sali  4==>Carsamba\n" +
                 "5==> Persembe  6 ==>Cuma " +
                 " 7 ==>Cumartesi");
+        
 
         byte gunNo = input.nextByte();
 
