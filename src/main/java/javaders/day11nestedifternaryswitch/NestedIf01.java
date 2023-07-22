@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class NestedIf01 {
     public static void main(String[] args) {
+        
         /*
            Kullanicidan 0'dan kucuk 120'den buyuk deger giremiyecek sekilde datalari aldiktan sonra
            Eger calisan kadinsa 60 yasindan buyukse "Emekli Olabilir "yazdirin
