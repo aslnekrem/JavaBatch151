@@ -3,6 +3,7 @@ package javaders.day11nestedifternaryswitch;
 import java.util.Scanner;
 
 public class Ternary02 {
+     
      /*
         Kullanicidan bir sayi aliniz, o sayi pozitif ise ekrana "Pozitif" yazdirin, degilse ekrana "Pozitif degil" yazdirin
      */
