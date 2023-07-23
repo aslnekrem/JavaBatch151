@@ -7,6 +7,7 @@ import java.util.Set;
 
 public class HashMap01 {
     public static void main(String[] args) {
+        
         //Map deyince aklimiza sozluk gelsin. sol tarafta kelime sag tarafta manasi oluyor.
         // Mesela Cat = Evcil hayvan, Dog = Evcil Hayvan, Crocodile = Timsah, Tiger = Kaplan...
         //Ornekteki: Sol taraftakiler tekrarsiz, Sag taraftakiler tekrarli olabilir.
