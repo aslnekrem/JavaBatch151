@@ -5,6 +5,7 @@ import java.util.TreeSet;
 
 public class Sets02 {
     public static void main(String[] args) {
+        
         //Example 1: Ogrenci e mail adreslerini Natural Order'da siralanmis
 
         //1.Way
