@@ -6,6 +6,7 @@ import java.time.format.DateTimeFormatter;
 public class DateTime02 {
     public static void main(String[] args) {
 
+        
         LocalDateTime ldt = LocalDateTime.now(); //Class daki kelimelerin ilk harfini kullanirlar genelde
         System.out.println("ldt = " + ldt);
 
