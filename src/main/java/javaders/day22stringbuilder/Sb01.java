@@ -2,6 +2,7 @@ package javaders.day22stringbuilder;
 
 public class Sb01 {
 
+    
     /*
         1) "String builder" String ureten bir Class'dir.
         2) String Class kullanarak String uretiriz Java neden "StringBuilder" Class'i da olusturdu?
