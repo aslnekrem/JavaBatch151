@@ -12,6 +12,7 @@ public class Varargs01 {
         getInitials("Ali Can" , "Kemal Han" , "Tuncay Cinar" , "Ibrahim Catal");
 
 
+        
 
 
     }//main
