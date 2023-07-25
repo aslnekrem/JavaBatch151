@@ -11,6 +11,7 @@ public class DateTime01 {
         //Icinde bulundugumuz zaman dilimindeki tarihi nasil aliriz?
         LocalDate myCurrentDate = LocalDate.now();
         System.out.println(myCurrentDate);//15-03-2023
+        
 
         //Tarih'ten istedigimiz bileseni nasil aliriz?
         int monthValue = myCurrentDate.getMonthValue();
