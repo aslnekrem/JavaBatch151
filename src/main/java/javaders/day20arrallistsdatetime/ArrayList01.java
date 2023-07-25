@@ -6,6 +6,7 @@ import java.util.Scanner;
 
 public class ArrayList01 {
   
+  
   /*
         1)String Class kullanmak tercih edilir cunku String Class method acisindan cok zengindir.
         2)List.of() kullanarak kisa yoldan List olusturabilirsiniz ama
