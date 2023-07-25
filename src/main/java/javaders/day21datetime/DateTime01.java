@@ -13,6 +13,7 @@ public class DateTime01 {
         LocalTime myCurrentTime = LocalTime.now();//24 saatlik dilimde gösterir: Saat, Dakika, Saniye, Nanosaniye gösterir
         System.out.println(myCurrentTime);
 
+        
         //Anlik zamanda bilesenler nasil alinir?
         int hour = myCurrentTime.getHour();
         System.out.println("hour = " + hour);
