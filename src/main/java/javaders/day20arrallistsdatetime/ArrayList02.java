@@ -19,6 +19,7 @@ public class ArrayList02 {
         nums.add(10);
         nums.add(19);
         System.out.println(nums);
+        
 
         //Collections.sort(nums); method'u nums Listesindeki elemanlari "natural order" yapar
         Collections.sort(nums); //Collections sinifinin methodunu kullandik
