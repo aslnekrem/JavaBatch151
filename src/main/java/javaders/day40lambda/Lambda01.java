@@ -13,6 +13,7 @@ public class Lambda01 {
 
         Lambda Expression ==> forEach(t-> System.out.println(t+" "));
         Method Referance ==> forEach(System.out :: println);
+        
 
 
      */
