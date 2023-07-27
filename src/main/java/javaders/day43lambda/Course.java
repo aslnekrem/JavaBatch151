@@ -9,6 +9,7 @@ package javaders.day43lambda;
     v)toString() method'u
     barindiran Class'lara "POJO" Class denir.
     POJO: Plain Old Java Object
+    
  */
 
 public class Course {
