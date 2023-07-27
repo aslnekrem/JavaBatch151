@@ -8,6 +8,7 @@ import java.util.stream.Collectors;
 public class Lambda01 {
 
     public static void main(String[] args) {
+        
 
         Course turkishDay = new Course("Turkish Daytime QA", 213, "Spring", 97);
         Course turkishNight = new Course("Turkish Nighttime QA", 245, "Winter", 98);
