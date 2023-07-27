@@ -8,6 +8,7 @@ import java.util.stream.IntStream;
 
 public class Lambda02 {
     public static void main(String[] args) {
+        
 
         System.out.println(getSumInTheGivenRange(7, 10));
         System.out.println(getMultiplicationInTheGivenRange(7, 10));
