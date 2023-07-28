@@ -11,6 +11,7 @@
 3) charAt(0);  i)Bize Data'daki ilk karakteri dondurur
                ii)index ile calisir
 
+
 4)length();  :  i)Bir datadaki karakter sayisini bize verir
                ii)int bir deger dondurur
 
