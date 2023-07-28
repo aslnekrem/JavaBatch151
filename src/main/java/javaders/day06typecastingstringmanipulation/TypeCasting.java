@@ -7,6 +7,7 @@ public class TypeCasting {
         short num = 260;
         byte numByte = (byte) num;
         System.out.println("numByte = " + numByte); //4
+        
 
         
         //yukaridaki ornekte short'dan gelen 260 sayisini 256'ya boluyor 4 kaliyor onu yazdiriyor
