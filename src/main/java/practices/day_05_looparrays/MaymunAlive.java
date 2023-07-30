@@ -8,6 +8,7 @@ public class MaymunAlive {
     Her gün 4 muz yemesi gerekiyor
     o adada sadece 165 muz var
     Maymunun kac gun hayatta kalabilecegini hesaplayan kodu yaziniz.
+    
 
     */
 
