@@ -3,6 +3,7 @@ package practices.day_05_looparrays;
 public class ButceRunner {
     public static void main(String[] args) {
 
+        
         Butce baba = new Butce();//Adem
         System.out.println("Maas oncesi Butce " + Butce.butce);
         baba.maasAl(30000);
