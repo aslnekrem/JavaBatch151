@@ -6,6 +6,7 @@ public class C01_cdenOncekia {
     /*
       Kullanıcıdan aldığınız 'c' ve 'a' iceren bir String değer içerisindeki
    'c' karakterinden önceki 'a' karakterlerinin sayısını bulan bir kod yazınız.
+   
    */
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
