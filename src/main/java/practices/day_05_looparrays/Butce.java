@@ -2,6 +2,7 @@ package practices.day_05_looparrays;
 
 public class Butce {
 
+    
     // Tum aile uyelerinin birikiminin
     // bulundugu ortak ihtiyaclar icin
     // kullanildigi bir butce ile kisisel
