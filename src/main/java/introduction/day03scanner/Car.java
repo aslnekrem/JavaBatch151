@@ -1,6 +1,7 @@
 package introduction.day03scanner;
 
 public class Car {
+    
 
     
     public  String model = "Corolla";
