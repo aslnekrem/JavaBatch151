@@ -6,6 +6,7 @@ public class Runner {
         
         Car                 mycar                =      new         Car();
 
+        
        
 
         System.out.println(mycar.fiyat); // Mesela burada arabanin fiyatini göreceksin
