@@ -6,6 +6,7 @@ public class LinkedList01 {
     
     public static void main(String[] args) {
         
+        
     /*
         ArrayList'ler eleman silme ve ekleme'de tekrar index'leme yapmak zorunda olduklarindan, eleman ekleme ve silmede
             basarisizdirlar
