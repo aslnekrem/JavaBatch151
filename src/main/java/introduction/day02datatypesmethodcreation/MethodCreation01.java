@@ -8,7 +8,6 @@ public class MethodCreation01 {
         System.out.println(sonuc);
         
 
-
         
 
         long sonuc2 = multiply(3,6); //a ve b'yi Intellij yaziyor biz degil
