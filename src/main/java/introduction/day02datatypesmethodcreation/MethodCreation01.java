@@ -7,7 +7,7 @@ public class MethodCreation01 {
         int sonuc = toplamaYap(3,5); //burada method'dan geleni atadik int icerisine
         System.out.println(sonuc);
         
-    
+
 
         long sonuc2 = multiply(3,6); //a ve b'yi Intellij yaziyor biz degil
         
