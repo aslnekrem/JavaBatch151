@@ -5,6 +5,7 @@ public class C01_Instance {
     //instance variable'lar main method disinda class'da lusturuyoruz
     //istersen atama'da yapabilirsin.
     //instance variable'lari static yapamazsin yaparsan o zaman class variable olur
+    
 
 
     int sayi;   //0
