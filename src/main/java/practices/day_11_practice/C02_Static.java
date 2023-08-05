@@ -6,6 +6,7 @@ public class C02_Static {
     static int okulNo;  // 0
 
     static  boolean okulAcikMi;  // false
+    
 
   /*
 
