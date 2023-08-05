@@ -8,6 +8,7 @@ public class C04_Constructor {
     String model;
     int yil;
     String yakit;
+    
 
     public C04_Constructor(String marka, String model, int yil, String yakit) {
         this.marka = marka;
