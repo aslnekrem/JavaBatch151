@@ -4,6 +4,7 @@ public class C01_StringManipulation {
     public static void main(String[] args) {
     
 
+        
         String a = "Benim Tek Rakibim Dunku Ben*.";
         String aUpper = a.toUpperCase();    //.toUpperCase, tum harfleri buyutur
         System.out.println("aUpper = " + aUpper);
