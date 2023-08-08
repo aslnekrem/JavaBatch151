@@ -1,6 +1,7 @@
 package javaders.day26abstraction;
 
 public abstract class Courses {
+    
 
     /*
         //Abstract method'lar kesinlikle Override edilmeli butun child'lar tarafindan. Matematik ortaokul 6,7,8.
