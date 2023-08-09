@@ -6,7 +6,7 @@ import java.util.List;
 
 public class Lambda01 {
     public static void main(String[] args) {
-        
+    
 
         List<String> myList = new ArrayList<>();
         myList.add("Tom");
