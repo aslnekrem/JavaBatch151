@@ -7,7 +7,6 @@ import java.util.TreeSet;
 
 public class Sets01 {
 
-
     
     /*
         Kendinizden kisaca bahseder misiniz?
