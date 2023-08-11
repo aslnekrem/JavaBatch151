@@ -2,6 +2,7 @@ package javaders.day34exceptions;
 
 public class E01 {
     public static void main(String[] args) {
+        
 
     /*
     1)"Exception" beklenmedik problem demektir
