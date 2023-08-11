@@ -4,6 +4,7 @@ public class E01 {
     public static void main(String[] args) {
         
 
+        
     /*
     1)"Exception" beklenmedik problem demektir
     2)"Exception"i hallebilmek icin iki temel yol vardir
