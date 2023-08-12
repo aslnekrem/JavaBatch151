@@ -6,7 +6,7 @@ import java.io.IOException;
 
 public class E01 {
 
-    
+
     
     /*
      "Runtime Exception"a ornektir.
