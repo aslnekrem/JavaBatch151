@@ -10,7 +10,6 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 public class Lambda01 {
-
     
     public static void main(String[] args) throws IOException {
 
