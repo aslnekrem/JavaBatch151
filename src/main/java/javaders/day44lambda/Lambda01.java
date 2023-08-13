@@ -11,7 +11,7 @@ import java.util.stream.Collectors;
 
 public class Lambda01 {
 
-    
+
     public static void main(String[] args) throws IOException {
     
         //Example 1: Verilen text file icindeki text'i console'a yazdiran code'u yaziniz.
