@@ -14,7 +14,7 @@ public class Lambda01 {
     
     public static void main(String[] args) throws IOException {
 
-        
+    
         //Example 1: Verilen text file icindeki text'i console'a yazdiran code'u yaziniz.
         Files.lines(Paths.get("src/main/java/javaders/day44lambda/myTextFile.txt")).forEach(System.out::println);
         //Satirlar oldugu icin "ln" i silmedik
