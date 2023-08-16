@@ -10,6 +10,7 @@ public class Lambda01 {
         
 
         
+        
         List<Integer> nums = new ArrayList<Integer>();
         nums.add(8);
         nums.add(9);
