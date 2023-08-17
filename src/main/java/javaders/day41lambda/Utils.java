@@ -6,6 +6,7 @@ public class Utils {
         //ve Method referance kullaniniz
     public static int getSquare(int a){
 
+
         
         return a*a;
         
