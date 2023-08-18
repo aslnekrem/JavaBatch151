@@ -6,6 +6,7 @@ import java.util.Comparator;
 import java.util.List;
 
 public class Lambda01 {
+
     
     /*
         Lambda collection ve listlerde kullanilabilir fakat map'lerde kullanilamaz
