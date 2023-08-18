@@ -10,6 +10,7 @@ public class Lambda01 {
     
     /*
 
+
         Lambda collection ve listlerde kullanilabilir fakat map'lerde kullanilamaz
         Lambda functioanl programming'dir.
 
