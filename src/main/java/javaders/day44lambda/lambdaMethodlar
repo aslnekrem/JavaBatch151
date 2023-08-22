@@ -13,6 +13,7 @@ split()=>Bu String öğesini verilen normal ifadenin eşleşmelerine böler.
 
 
 
+
 Comparator => bir Class'tır. Compar karşılaştırmak demektir.
 Bazı nesneler koleksiyonuna toplam sıralama uygulayan bir karşılaştırma
 işlevi.Karşılaştırıcılar, sıralama düzeni üzerinde hassas kontrol
