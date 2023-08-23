@@ -7,7 +7,6 @@ public class Utils {
     public static int getSquare(int a){
 
 
-
     
         return a*a;
         
