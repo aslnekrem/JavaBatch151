@@ -8,6 +8,7 @@ public class Lambda01 {
 
         //Lambda Expression. Expression(cumle)
         
+        
 
     
         
