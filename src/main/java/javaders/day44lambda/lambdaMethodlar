@@ -9,6 +9,7 @@ var ancak sen bize şu kadarını göster diyoruz.
 
 findFirst() => İlk elemanı verir. Optional return eder.
 
+
 split()=>Bu String öğesini verilen normal ifadenin eşleşmelerine böler.
 
 
