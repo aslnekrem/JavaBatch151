@@ -7,7 +7,6 @@ var ancak sen bize şu kadarını göster diyoruz.
 
 
 
-
 findFirst() => İlk elemanı verir. Optional return eder.
 
 
