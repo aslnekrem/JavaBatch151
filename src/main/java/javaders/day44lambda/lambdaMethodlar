@@ -5,6 +5,7 @@ göstermemize yarayan,sınırlandıran bir metoddur. Parametre olarak
 vereceğimiz rakamla aslında Stream içerisinde dönen çok sayıda veri
 var ancak sen bize şu kadarını göster diyoruz.
 
+
 findFirst() => İlk elemanı verir. Optional return eder.
 
 split()=>Bu String öğesini verilen normal ifadenin eşleşmelerine böler.
