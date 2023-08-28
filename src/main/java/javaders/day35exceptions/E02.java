@@ -6,6 +6,7 @@ public class E02 {
         System.out.println(getCharFromString("Java", 2));
         System.out.println(getCharFromString("Java", 8));
 
+
         
 
         
