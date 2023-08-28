@@ -7,6 +7,7 @@ public class E02 {
         System.out.println(getCharFromString("Java", 8));
         
 
+        
     }
 
     //Example 1: Bir String'deki character'i index kullanarak alan bir method olusturunuz.
