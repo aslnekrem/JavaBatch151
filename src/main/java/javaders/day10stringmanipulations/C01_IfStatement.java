@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class C01_IfStatement {
     
     public static void main(String[] args) {
+        
         // If it rains; I will cancel the picnic.
         // Eger yagmur yagarsa ; picnigi iptal edecegim
 
