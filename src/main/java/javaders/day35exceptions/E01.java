@@ -8,6 +8,7 @@ public class E01 {
         
         System.out.println(convertStringToInt("12ab") + 2);//NumberFormatException : For input string: "12ab"
         
+        
 
     }//main
 
