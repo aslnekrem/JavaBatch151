@@ -9,7 +9,6 @@ public class C01_StringManipulations {
         boolean isEnd = s.endsWith("money");
         System.out.println("isEnd = " + isEnd);//true
 
-
         
 
         // Ex : s String'indeki "money" kelimesini "dolar" kelimesi ile yer degistiriniz
