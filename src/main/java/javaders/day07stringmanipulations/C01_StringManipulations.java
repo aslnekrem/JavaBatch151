@@ -6,7 +6,6 @@ public class C01_StringManipulations {
 
 
         
-
         boolean isEnd = s.endsWith("money");
         System.out.println("isEnd = " + isEnd);//true
 
