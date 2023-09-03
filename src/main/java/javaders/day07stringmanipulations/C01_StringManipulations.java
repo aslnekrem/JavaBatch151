@@ -14,7 +14,6 @@ public class C01_StringManipulations {
             
 
 
-
         // Ex : s String'indeki "money" kelimesini "dolar" kelimesi ile yer degistiriniz
         /*replace()
         Metnin icerisindeki belirli bir datanin yerine verilen diger datayi yerlestirir.
