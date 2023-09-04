@@ -8,6 +8,7 @@ public class Scanner01 {
         Scanner input = new Scanner(System.in);
         System.out.println("Lutfen 5 basamakli bir sayi giriniz: ");
         int number = input.nextInt();
+
         
 
         
