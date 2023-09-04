@@ -9,7 +9,7 @@ public class Scanner01 {
         System.out.println("Lutfen 5 basamakli bir sayi giriniz: ");
         int number = input.nextInt();
         
-    
+
         
         int lastDigit = number % 10;
 
