@@ -10,7 +10,6 @@ public class Scanner01 {
         int number = input.nextInt();
         
         
-
         
         int lastDigit = number % 10;
 
