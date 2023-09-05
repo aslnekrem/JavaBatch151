@@ -8,7 +8,7 @@ public class CustomExceptionRunner {
 
     
 
-    
+
     
     /*
         1)try kullandigimizda her senaryo icin calismasini istedigimiz kodlari finally block icine koyariz
