@@ -9,6 +9,7 @@ public class CustomExceptionRunner {
     
 
     
+    
     /*
         1)try kullandigimizda her senaryo icin calismasini istedigimiz kodlari finally block icine koyariz
         2)IWQ: "final", "finally" ve "finalize" aciklar misiniz?
