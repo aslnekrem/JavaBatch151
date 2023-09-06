@@ -11,7 +11,6 @@ public class Lambda01 {
 
 
 
-
         
         List<String> myList = new ArrayList<>();
         myList.add("Tom");
