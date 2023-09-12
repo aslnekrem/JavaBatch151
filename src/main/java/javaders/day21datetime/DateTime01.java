@@ -8,7 +8,6 @@ import java.time.format.DateTimeFormatter;
 public class DateTime01 {
     public static void main(String[] args) {
         
-
         
 
         //Anlik zamani nasil aliriz?
